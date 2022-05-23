@@ -3,7 +3,7 @@
 
 <h2  align="center">Four In One Telecommunications Bootstrap 5 eCommerce Template</h2>
 <h2 align="center">A Bootstrap 5 eCommerce Store Template</h2>
-<hr>
+
 
 <br>
 
