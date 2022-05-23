@@ -29,6 +29,12 @@
 - [PayPal](https://about.pypl.com/home/default.aspx)
 - [Stripe](https://stripe.com/)
 
+### GitHub Branches
+- [Main]()
+the template itself
+- [RetailStore]()
+the redesign of eCommerce store template
+
 ### Four In One Telecommunications Sponsors
 
 Thank you for considering contributing to the Four In One Telecommunications websites design open sourced project!
