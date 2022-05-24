@@ -1,9 +1,7 @@
 ![eCommerce Store Template](/mdassets/ecommerce-theme.jpg)
 
-
 <h2  align="center">Four In One Telecommunications Bootstrap 5 eCommerce Template</h2>
 <h2 align="center">A Bootstrap 5 eCommerce Store Template</h2>
-
 
 <br>
 
@@ -15,6 +13,15 @@
 
 ### Pages
 
+- Login
+- Pricing
+- Products
+- Projects
+- Services
+- Shopping Cart
+- SignUp
+- Team
+- Testimonials
 
 ### Learning to Code
 
@@ -30,6 +37,7 @@
 - [Stripe](https://stripe.com/)
 
 ### GitHub Branches
+
 - [Main]()
 the template itself
 - [RetailStore]()
@@ -55,4 +63,3 @@ Report bugs and issues
 
  The redesign of Bootstrap Studio eCommerce template by Four In One Telecommunications is open-sourced software licensed under the
  [MIT License]()
-
