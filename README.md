@@ -1,22 +1,18 @@
 ![eCommerce Store Template](/mdassets/ecommerce-theme.jpg)
 
-
 <h2  align="center">Four In One Telecommunications Bootstrap 5 eCommerce Template</h2>
-<h2 align="center">A Bootstrap 5 eCommerce Store Template</h2>
-
 
 <br>
 
-### About Four In One Telecommunications eCommerce Template
+## [About Four In One Telecommunications eCommerce Template](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/wiki)
+
+A Bootstrap 5 eCommerce Store Template
 
 - [4-in-1 Telecom Design](https://4in1telecomdesign.com)
 - [Bootstrap Studio eCommerce](https://bootstrapstudio.io/ecommerce)
 - [GHPages]()
 
-### Pages
-
-
-### Learning to Code
+### Frontend Frameworks & Text Editors
 
 - [Bootstrap 5](https://getbootstrap.com/)
 - [jQuery](https://jquery.com/)
@@ -29,24 +25,27 @@
 - [PayPal](https://about.pypl.com/home/default.aspx)
 - [Stripe](https://stripe.com/)
 
-### Four In One Telecommunications Sponsors
+## [Four In One Telecommunications Sponsors]()
 
 Thank you for considering contributing to the Four In One Telecommunications websites design open sourced project!
 
-### Contributing
+## [Contributing](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/blob/main/CONTRIBUTING.md)
 
 Thank you for considering contributing to the Four In One Telecommunications websites design open sourced project!
 
-### Code of Conduct
+## [Request Features](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+
+Requst features and share your creative ideas with Four in One Telecom Design open source website project.
+
+## [Code of Conduct](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/blob/main/CODE_OF_CONDUCT.md)
 
 Be kind to everyone.
 
-### Security Vulnerabilities
+## [Security Vulnerabilities](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/blob/main/SECURITY.md)
 
-Report bugs and issues
+Reporting a vulnerability in Four In One Telecom Design eCommerce Store Template.
 
-### License
+## [License](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/blob/main/LICENSE)
 
  The redesign of Bootstrap Studio eCommerce template by Four In One Telecommunications is open-sourced software licensed under the
- [MIT License]()
-
+ [MIT License](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/blob/main/LICENSE)
