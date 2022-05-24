@@ -2,6 +2,12 @@
 
 <h2  align="center">Four In One Telecommunications Bootstrap 5 eCommerce Template</h2>
 
+<p align="center">
+<a href="LICENSE">
+<img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
+ </a>
+</p>
+
 <br>
 
 ## [About Four In One Telecommunications eCommerce Template](https://github.com/4-in-1-telecommunications/eCommerce-Store-Template/wiki)
